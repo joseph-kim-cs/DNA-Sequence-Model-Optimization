@@ -1,1 +1,1 @@
-# DNA-Sequence-Model-Optimization
+# DNA Sequence Model Optimization
